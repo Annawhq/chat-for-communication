@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1c1c5f66-0959-45c3-b12d-2cad141c3dfe" name="Chatik" url="http://87.117.50.28">
+        <fileTransfer accessType="SFTP" sshConfigId="4a34eb75-9451-49df-89c9-813d8a1ff96a" sshConfig="Chatik">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

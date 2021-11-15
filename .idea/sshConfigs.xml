@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="4a34eb75-9451-49df-89c9-813d8a1ff96a" customName="Chatik" nameFormat="CUSTOM">
+        <option name="customName" value="Chatik" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
